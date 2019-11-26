@@ -11,6 +11,7 @@
 运行migrate命令，创建数据库和数据表
 运行python manage.py runserver启动服务器
 
+学习项目
 
 路由设置：
 
